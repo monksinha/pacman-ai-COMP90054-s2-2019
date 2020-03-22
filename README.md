@@ -1,11 +1,3 @@
-# UoM COMP90054 AI Planning for Autonomy - Pacman Project Template
+# UoM COMP90054 AI Planning for Autonomy - Pacman Project
 
-This repository is used by students to fork their own repository to work for the team submission.
-
-You must FORK **privately** this repository and change slightly the name to **comp90054-pacman-\<your student number\>**
-
-Read [this documentation about the code of the contest](contest.md)
-
-Please follow the instructions in LMS. An [initial copy of the PDF](instructions.pdf) can be found in this repo.
-
-Hope you enjoy this project!
+This project was completed as an assignment hurdle for AI Planning for Autonomy (COMP90054) at the University of Melbourne.
